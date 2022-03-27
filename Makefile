@@ -1,2 +1,2 @@
 make:
-	mpicc  -o oems oems.c
+	mpic++ -o oems oems.cpp
